@@ -28,15 +28,6 @@ public class IndexService {
             }
 
         }
-        for (FacultyCategoryModel facultyCategoryModel:facultyCategoryModelArrayList){
-            System.out.println("FacultyCategoryID:"+facultyCategoryModel.getId());
-            for (FacultyModel facultyModel:facultyCategoryModel.getFacultyModelList()){
-                System.out.println("-   -   -FacultyID:"+facultyModel.getId());
-                for (ArticleModel articleModel: facultyModel.getArticleModelList()){
-                    System.out.println("-   -   -   -ArticleID:"+articleModel.getId());
-                }
-            }
-        }
         return facultyCategoryModelArrayList;
     }
 }
