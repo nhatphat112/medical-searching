@@ -1,0 +1,16 @@
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/model/NewSletterResponse.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/controller/SearchController.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/service/DetailService.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/model/NewSletterModel.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/model/ArticleModel.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/config/MySqlConfig.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/model/FacultyCategoryModel.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/model/NewSletterListModel.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/model/FacultyModel.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/repository/NewSletterRepository.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/repository/FacultyRepository.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/repository/FacultyCategoryRepository.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/controller/IndexController.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/repository/ArticleRepository.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/service/IndexService.java
+/Users/WorkSpaces/git_project/test/medical-searching/src/main/java/controller/HomePageController.java

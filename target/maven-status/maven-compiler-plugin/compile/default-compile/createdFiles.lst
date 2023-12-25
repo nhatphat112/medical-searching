@@ -1,0 +1,16 @@
+controller/SearchController.class
+repository/FacultyRepository.class
+controller/HomePageController.class
+repository/NewSletterRepository.class
+model/NewSletterModel.class
+model/FacultyCategoryModel.class
+controller/IndexController.class
+model/NewSletterListModel.class
+config/MySqlConfig.class
+model/ArticleModel.class
+repository/FacultyCategoryRepository.class
+model/FacultyModel.class
+service/DetailService.class
+model/NewSletterResponse.class
+service/IndexService.class
+repository/ArticleRepository.class
